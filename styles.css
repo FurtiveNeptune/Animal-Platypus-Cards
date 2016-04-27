@@ -1,0 +1,49 @@
+.header {
+    border-style: solid;
+    box-shadow: 10px 10px 10px #888;
+    padding-bottom: 1em;
+    margin: 200px;
+    margin-top: 50px;
+}
+
+.title {
+    margin-left: 15px;
+}
+
+.image {
+    width: 300px;
+    max-width: 100%;
+    margin-left: 10%;
+}
+
+.info {
+    margin: 10px;
+}
+
+.fun-fact {
+    font-style: italic;
+}
+
+.fact {
+    font-style: italic;
+    font-weight: normal;
+}
+
+.fact-title {
+    font-style: normal;
+    font-weight: 700;
+}
+
+.body {
+    font-family: verdana, arial, sans-serif;
+}
+
+.list {
+    font-style: normal;
+    list-style-type: none;
+}
+
+
+
+
+
